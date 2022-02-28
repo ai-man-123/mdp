@@ -1,6 +1,6 @@
 exports.allmenu = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Github : https://github.com/ai-man-123
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -69,24 +69,6 @@ Instagram : @Fandyyy._
 ⚘👾 ${prefix}nuliskiri
 ⚘👾 ${prefix}foliokanan
 ⚘👾 ${prefix}foliokiri
-
-*👭 ASUPAN MENU*
-⚘👾 ${prefix}asupanhijaber
-⚘👾 ${prefix}asupancecan
-⚘👾 ${prefix}asupanbocil
-⚘👾 ${prefix}asupanukhty
-⚘👾 ${prefix}asupanghea
-⚘👾 ${prefix}asupanrika
-⚘👾 ${prefix}asupansantuy
-
-*👩 CECAN MENU*
-⚘👾 ${prefix}china
-⚘👾 ${prefix}vietnam
-⚘👾 ${prefix}thailand
-⚘👾 ${prefix}indonesia
-⚘👾 ${prefix}korea
-⚘👾 ${prefix}japan
-⚘👾 ${prefix}malaysia
 
 *🎮 FUN MENU*
 ⚘👾 ${prefix}truth
@@ -157,13 +139,6 @@ Instagram : @Fandyyy._
 ⚘👾 ${prefix}megumin
 ⚘👾 ${prefix}handhold
 
-*🔞 NSFW MENU*
-⚘👾 ${prefix}blowjob
-⚘👾 ${prefix}hentai
-⚘👾 ${prefix}yuri
-⚘👾 ${prefix}neko
-⚘👾 ${prefix}cum
-
 *🎨 MAKER MENU*
 ⚘👾 ${prefix}toimage
 ⚘👾 ${prefix}smeme
@@ -209,7 +184,5 @@ Instagram : @Fandyyy._
 ⚘👾 ${prefix}report
 ⚘👾 ${prefix}req
 
-Fitur Nya Masih Dikit Jadi
-Subscribe For Update 🤙
 `
 }
